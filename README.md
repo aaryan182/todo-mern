@@ -33,7 +33,7 @@ Enjoy managing your tasks with this simple yet powerful Todo application built w
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/abhishekpaturkar/React-todo-app.git
+   git clone https://github.com/aaryan182/todo-mern.git 
    cd React-todo-app
    ```
 
